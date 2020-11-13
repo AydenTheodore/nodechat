@@ -1,4 +1,4 @@
-# sockets
+# Node-Chat
 
 ## This is sample chat application using Node JS & socket.io
 
