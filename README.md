@@ -1,4 +1,7 @@
-# Chat App
+# sockets
+chat app
+This is sample chat application using Node JS & socket.io
 
-### Just a chat with NodeJS
-###### Potatored
+Users can chat in realtime across various meeting rooms.
+
+Demo: https://bhupendra1011.herokuapp.com/
